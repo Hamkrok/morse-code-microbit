@@ -2,26 +2,26 @@
 morse code extension for microbit
 
 ## How to use
-Make the extension.
+### Make the extension.
   1. Switch from Blocks to JavaScript at the top of your screen.
   2. Open the Explorer on the left and click on the +.
   3. Name it Morse.ts.
   4. Replace every thing with the code from code.ts.
   5. If you replaced it go back to the plock code
 
-Setup Button A (For Dots)
+### Setup Button A (For Dots)
   1. Click on the pink Input category on the left.
   2. Drag the on button A pressed block onto your workspace.
   3. Click on your teal Morse Code category.
   4. Drag the add dot block and snap it inside the Button A block.
 
-Setup Button B (For Dashes)
+### Setup Button B (For Dashes)
   1. Go back to the pink Input category.
   2. Drag another on button A pressed block onto your workspace.
   3. Click the little arrow next to the A on this new block and change it to B (it will become on button B pressed).
   4. Go to Morse Code and drag the add dash block inside the Button B block.
 
-Setup the Forever Loop (For Translating)
+### Setup the Forever Loop (For Translating)
 Now look at the blue forever loop that is already on your screen:
   1. Click on the light blue Logic category.
   2. Drag an if/then block and place it inside the forever loop.
